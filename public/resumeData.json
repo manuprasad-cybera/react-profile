@@ -1,0 +1,155 @@
+{
+  "main": {
+    "name": "Manuprasad",
+    "occupation": "Web Designer",
+    "description": "I eat, sleep and breathe React",
+    "image": "protfolio.jpg",
+    "bio": "Hey i am Aanu a final year student also web developer and designer with a demonstrated history of working in the computer software industry. Skilled in HTML,CSS, JavaScript, PHP, Reactjs, Firebase , Leadership, and RESTful WebServices. Strong engineering professional with a Bachelor's degree focused in Computer Science from JSS science and technology university (SJCE) Mysuru.",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "Manuprasad967@gmail.com",
+    "phone": "+91 9538752687",
+    "address": {
+      "street": "84/A 7th Cross 3rd Main C block",
+      "city": "Mysore",
+      "state": "Karnataka",
+      "zip": "570008"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1PS1TE30d4uOUv1vl7Ws_wmyhpEWS4AA7/view?usp=sharing",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCojvWkPDOOu4TD40zVyhhRQ",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/manu.mp.1694",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/manu-prasad-9b0a0a148",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/the_manuprasad/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/manuprasad-cybera",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Jss science and technology university - Mysuru India",
+        "degree": "Bachelor's Degree, Computer Science and Engineering",
+        "graduated": " Persent 2021"
+      },
+
+      {
+        "school": "Jss Polytechnic - Mysuru India",
+        "degree": "Diploma, informationn Science and Technology",
+        "graduated": " July 2017",
+        "description": "Topper of the year"
+      }
+    ],
+    "work": [
+      {
+        "company": "wipro Limited",
+        "title": "Project Engineer",
+        "years": "Aug 2017 - May 2018",
+        "description": "Managing the Database writing the SQL Query,Set and maintain the database standards maintaining the performance of the database ,Performing Tuning operations, working with different database managing and maintaining databaseWorking with tickets like Incident, Chain and RF "
+      },
+
+      {
+        "company": "Thinksonic Pvt Ltd",
+        "title": "Front-end developer",
+        "years": "May 2018 - Aug 2018",
+        "description": "Create and test the web applications, websites,monitoring the traffic, maintain and update websites,presenting the design, working with the graphics and other design and designers,troubleshoot the problem, stay up-to date with the technology "
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "PHP",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "Go",
+        "level": "75%"
+      },
+      {
+        "name": "C and C++",
+        "level": "90%"
+      },
+      {
+        "name": "JAva",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "clarette Biotech",
+        "category": "",
+        "image": "clarettebioi.png",
+        "url": "http://clarettebio.com"
+      },
+      {
+        "title": "Limzon",
+        "category": "", 
+        "image": "Limzon.png",
+        "url": "https://Limzon.de"
+      },
+      {
+        "title": "Code and scale",
+        "category": "",
+        "image": "codeandscale.png",
+        "url": "https://codeandscale.de"
+      },
+      {
+        "title": "Amazon-clone",
+        "category": "",
+        "image": "amazon-clone.png",
+        "url": "https://challenge-dcc77.web.app/"
+      },
+      {
+        "title": "Code and scale",
+        "category": "",
+        "image": "nifoindia.png",
+        "url": "http://nifoindia.org"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Manu is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Shesha Prasad"
+      }
+    ]
+  }
+}
